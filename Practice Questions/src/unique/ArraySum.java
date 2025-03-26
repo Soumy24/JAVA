@@ -1,5 +1,5 @@
 //Write a Program to find the Sum of Elements in Array.
-package array;
+package unique;
 
 import java.util.Scanner;
 
