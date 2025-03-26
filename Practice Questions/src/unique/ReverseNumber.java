@@ -1,7 +1,6 @@
 //WAP to reverse a number
 
 package unique;
-
 import java.util.Scanner;
 public class ReverseNumber {
     public static void main(String[] args) {
