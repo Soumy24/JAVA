@@ -1,4 +1,4 @@
-//
+//Write a Program to Remove Junk or Special character in a String.
 package unique;
 import java.util.Scanner;
 public class RemoveSpecialCharacters {
